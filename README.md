@@ -37,3 +37,10 @@ Install the required packages using pip:
     https://www.reddit.com/user/kojied/    (example)
 
 5) Output: A .txt file (e.g., kojied_persona.txt) will be created in the same folder, containing the generated user persona with cited posts/comments.
+
+## These personas were generated as part of the assignment:
+1)kojied_persona.txt
+2)Hungry-Move-6603_persona.txt
+3)spez_persona.txt
+
+You can open and review them directly to see the format and structure of a complete output.
