@@ -1,0 +1,42 @@
+## User Persona: Steve Huffman (spez)
+
+**Name:** Steve Huffman
+
+**Username:** spez
+
+**Role:** CEO of Reddit
+
+**Background:** Co-founder of Reddit. Returned to the CEO role after a period away.
+
+**Demographics:**
+
+* **Location:** San Francisco, CA ([Comment: *San Francisco 🤷🏼‍♂️*])
+* **Likely Age:** Mid-30s to early 40s (Based on founding Reddit 20 years prior to a post mentioning Reddit turning 20)
+
+**Psychographics:**
+
+* **Tech-Savvy:** Deeply involved in the technical aspects of Reddit, discussing CSS, APIs, and platform scaling issues. ([Post: *Reddit is ProCSS*], [Post: *Introducing new API terms*])
+* **Community-Oriented:** Expresses a strong desire to connect with and empower the Reddit community. ([Post: *Reddit’s next chapter: smarter, easier, still human*], [Post: *I am Steve Huffman, the new CEO of reddit. AMA.*])
+* **Transparent and Communicative:** Regularly participates in AMAs and makes announcements about Reddit's plans and progress. ([Post: *I am Steve Huffman, the new CEO of reddit. AMA.*], [Post: *Reddit’s next chapter: smarter, easier, still human*])
+* **Humorous and Self-Deprecating:** Makes jokes and admits to mistakes. ([Post: *Reddit’s next chapter: smarter, easier, still human* (the old.reddit joke), [Comment: *I admit it was a stupid thing to say...*])
+* **Data-Driven:** Cites metrics and statistics to support his points. ([Post: *Reddit’s next chapter: smarter, easier, still human* (Google search ranking, April Fools' Day participation), [Post: *A few updates on what has been keeping us busy* (spam reduction percentage)])
+* **Nostalgic for Early Internet:** Expresses fondness for early internet resources. ([Comment: *This was the beginning of the internet for me...*])
+* **Bookworm:**  Mentions reading multiple books concurrently, including Discworld series. ([Comment: *Fun stuff: I'm picking up a new mountain bike today. Just finished another Discworld book...*], [Comment: *Awesome. I haven't read that one, which is something I can say for about 35 Discworld books.*])
+* **Quirky and Opinionated:** Shares unusual food preferences and strong opinions (e.g., cottage cheese, Good & Plenty candy, dislike of Jelly Bellys). ([Comment: *But what I'd really like to talk about today is cottage cheese...*], [Comment: *My favorite candies, in order...*], [Comment: *Red vines. I grew up on the east coast...*])
+* **Health-Conscious:** Mentions quitting drinking and being active (mountain biking, laundry). ([Comment: *I quit drinking 1.5 years ago...*], [Comment: *Fun stuff: I'm picking up a new mountain bike today...*], [Comment: *I did my laundry this morning...*])
+* **Values Anonymity and Privacy:**  Emphasizes the importance of anonymity on Reddit and protecting user information. ([Post: *Reddit’s next chapter: smarter, easier, still human*])
+* **Philanthropic:**  Supports charities like Extra Life and Children's Miracle Network Hospitals. ([Post: *Goodbye, Chad!*])
+
+**Technology Use:**
+
+* **Active Reddit User:**  Posts and comments frequently. ([Various posts and comments])
+* **Uses Mobile Devices:** Acknowledges the importance of mobile users on Reddit. ([Post: *The web redesign, CSS, and mod tools*])
+
+**Frustrations:**
+
+* **Scaling and Technical Debt:**  Frustrated with the limitations of old.reddit and the challenges of maintaining backward compatibility with CSS. ([Post: *Reddit’s next chapter: smarter, easier, still human*], [Post: *The web redesign, CSS, and mod tools*])
+* **Spam and Bad Actors:**  Concerned about spam, account takeovers, and the burden they place on the community team. ([Post: *A few updates on what has been keeping us busy*])
+* **Maintaining Reddit's Authenticity in the Age of AI:**  Wary of unwelcome AI use and its potential to erode trust and authenticity. ([Post: *Reddit’s next chapter: smarter, easier, still human*])
+
+
+This persona represents Steve Huffman as portrayed through his Reddit activity. It offers insights into his personality, values, and priorities, which can be valuable for understanding his decision-making and communication style related to Reddit.
