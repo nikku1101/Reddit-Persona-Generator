@@ -2,7 +2,6 @@ import praw
 import requests
 import prawcore
 
-# -----------------------------------------
 # Gemini API Key (from https://makersuite.google.com/app)
 GEMINI_API_KEY = "AIzaSyA_-TEAQ0P9nEUXJl3o2vaqBKcWjFqEYuM" 
 
@@ -76,16 +75,16 @@ def generate_persona_gemini(posts, comments):
         print(f"Error {response.status_code}: {response.text}")
         return "Persona generation failed."
 
-# -----------------------------------------
-# 🔹 Step 3: Save Persona to File
+
+# Step 3: Save Persona to File
 def save_persona_to_file(username, persona):
     filename = f"{username}_persona.txt"
     with open(filename, "w", encoding="utf-8") as file:
         file.write(persona)
     print(f"Persona saved to {filename}")
 
-# -----------------------------------------
-# 🔹 Main Program
+
+# Main Program
 def main():
     profile_url = input("Enter the Reddit profile URL: ").strip().replace('"', '')
     username = profile_url.rstrip("/").split("/")[-1]
@@ -103,6 +102,6 @@ def main():
     persona = generate_persona_gemini(posts, comments)
     save_persona_to_file(username, persona)
 
-# -----------------------------------------
+
 if __name__ == "__main__":
     main()
